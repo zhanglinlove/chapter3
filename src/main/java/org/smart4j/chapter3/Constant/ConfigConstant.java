@@ -10,4 +10,5 @@ public interface ConfigConstant {
     String APP_BASE_PACKAG = "smart.frameworker.app.base_package";
     String APP_JSP_PATH = "smart.frameworker.app.jsp_path";
     String APP_ASSET_PATH = "smart.frameworker.app.asset_path";
+    String APP_UPLOAD_LIMIT = "smart.framework.app.upload_limit";
 }
