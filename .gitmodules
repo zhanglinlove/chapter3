@@ -1,0 +1,3 @@
+[submodule "src/main/java/org/smart4j/chapter3/basejava"]
+	path = src/main/java/org/smart4j/chapter3/basejava
+	url = https://github.com/zhanglinlove/basejava.git
